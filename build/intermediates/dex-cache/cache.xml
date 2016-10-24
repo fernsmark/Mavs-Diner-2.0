@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-8.4.0_17cc67685bc6b4cf703a2e5ec2f825638b47dbde\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-8.4.0_3fa3c0e1b723ba314a41d8d85f4b719071c70937\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-8.4.0_75d455441459563d919ea1795fdbea48da68def4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-8.4.0_89e0b587dea291828fc5f52c0bb0c963f6c324f6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_d0447afc5cff148b45bab9052846eb148419afa9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_a154e846b1315c30bcb2ce9aa0273209c29989bf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-8.4.0_b981ca7510f447ac471d63bad6e9ddedee5f18a9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-8.4.0_1b07682d0fb658d843734bf564df01490dcbe1fb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_89117bf304710c5485ae339b925c44cd37c6a6e0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d057710e1dfe47e0162148988b1e5d95458def11">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_06e858dcfa3fbed883d89bbe27529b98a280ee8c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_f186397bc65b41471e1adfc3c2855d6406f16a8c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="66f8ac89d11fbd73f5d25163160824c0d3536048">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2102cb0ebc0da3b88e4956d5e83ded68d06bd8bb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_2a829ec1d8f57dd78d8171213d9ed26142165054\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-1.0.19_ec3ba5f307aafc95921d70c0052f2a3c47683da7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-8.4.0_b07db8d181f6c0d675547e23c611e9938358e9a1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-8.4.0_ca8cc6c7221e478131777b98730a1778b293f9cb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-8.4.0_abadc5e23ff01ec5d0383d294ff43c1ac7db32d1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-measurement-8.4.0_2fce4892b9d2c64897a455e5d82f16fa2c7feba2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-8.4.0_3eb1817f96aaf467f6ef374bf34bd231648a70ae\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-8.4.0_36710f9d28f4a0356b2df7cd0bfa3c5c410ef48d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_324cc437d1929aec195674807c0577dcd2961d49\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-8.4.0_99f014d945781cc13ec62c72daa17b54da7004a9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-8.4.0_c1724d0ad369dc0c26b69289d165ab518a019015\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-8.4.0_bf5c77c4b91b8eb229bf9a2150636be5b8453ed6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_58f729383d8aaaf50f2f4ea0f0b63e588597c93e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_6001ca0748fd120a2ec358255d76d6a90e46a754\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\libs\quickblox-android-sdk-messages-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fa936b3f0255577659646db736279da07541e9b5">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\2\quickblox-android-sdk-messages-2.5.2_1e81202d8f1be070bdb9a5d8e96267cb332f2df5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_fde9571ade22a1473da640fa52549ccd019fc673\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-8.4.0_dbda810626f46234ef46574207e781194943227b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-8.4.0_812f1527901a88564d3b14ed2c52ad0d20ac998c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-8.4.0_0020e404da992e60b9d9f9b000652651c401260e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_d0a75e256ed22ead180ce70996d52127d9aad8e0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-8.4.0_b8f3ff30d7168639cd44b206b9003acc6c613838\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-8.4.0_a3c349409065f33a24050c9f873c2d5cb19c8961\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_e936828c1e66e18a9355f74d7c3d5090fd087c4d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_d7c476c431b13d0cbf4b1615b478a63af26ccfcc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\MavsDiner_v2.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_5f2a18c99228725b0b5a04d0d2288db3c004a1d0\classes.dex" />
+    </item>
+
+</items>

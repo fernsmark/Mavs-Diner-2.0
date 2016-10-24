@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/buckysImage"
+        android:src="@drawable/ic_menu_orders"
+        android:layout_margin="0dp" /-->
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Large Text"
+        android:id="@+id/restaurantName"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:gravity="center"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Large Text"
+        android:id="@+id/buckysText"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        android:layout_alignTop="@+id/quantity"
+        android:layout_toEndOf="@+id/Space2" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="1"
+        android:id="@+id/PriceText"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        android:layout_alignBottom="@+id/buttonInc"
+        android:layout_toLeftOf="@+id/buttonDec" />
+
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-"
+        android:id="@+id/buttonDec"
+        android:layout_below="@+id/Space2"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1"
+        android:gravity="center"
+        android:foregroundGravity="center"
+        android:id="@+id/quantity"
+        android:layout_alignBottom="@+id/buttonDec"
+        android:layout_toEndOf="@+id/buttonDec" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="+"
+        android:id="@+id/buttonInc"
+        android:gravity="center"
+        android:layout_alignBottom="@+id/quantity"
+        android:layout_toEndOf="@+id/quantity" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text=" "
+        android:id="@+id/Space2"
+        android:layout_margin="3dp"
+        />
+
+    <!--TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="2"
+        android:id="@+id/TotPrice"
+        android:textStyle="bold"
+        android:layout_toRightOf="@+id/buttonInc"
+         /-->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="1"
+        android:id="@+id/TotPrice"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        android:layout_alignBottom="@+id/buttonInc"
+        android:layout_toRightOf="@+id/buttonInc" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text=" "
+        android:id="@+id/Space3"
+        android:layout_margin="0dp"/>
+
+    <!--Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:textStyle="bold"
+        android:text="X"
+        android:id="@+id/buttonDel"
+        /-->
+
+
+</RelativeLayout>
